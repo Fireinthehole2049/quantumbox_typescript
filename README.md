@@ -1,6 +1,6 @@
-# ToolBox
+# QuantumBox
 
-ToolBox is an online tool for sketching and sharing instrumental music.
+QuantumBox is an online tool for sketching and sharing instrumental music.
 You can find it [here](https://toolbox.github.io).
 It is a modification of [JummBox](https://github.com/jummbus/jummbox) and [UltraBox](https://github.com/ultraabox/ultrabox_typescript), which inturn is a modification of the [original BeepBox](https://beepbox.co).
 
